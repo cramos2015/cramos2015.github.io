@@ -1,0 +1,7 @@
+a{text-decoration: none; } 
+li{padding-top:45px}
+body{background-color:#999E9D;}
+h1{color:#415780}
+.resize { width:200px ;Height: auto; } 
+#content_holder, aside{display:inline-block}
+#content_holder{width:1000px; float:left}
